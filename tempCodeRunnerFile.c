@@ -49,7 +49,7 @@ int main (void)
                 }
                 else
                 {
-                    printf("You are awarded 15 bars of Gold \n");
+                    printf("You are awarded 20 bars of Gold \n");
                 }
 
             }
